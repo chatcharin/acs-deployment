@@ -57,4 +57,4 @@ dependencies:
   repository: https://alfresco.github.io/alfresco-helm-charts/
   version: 0.1.0
 digest: sha256:f506e97fe1a6fb7567dae5c536a0256a59ea9a8e0f979ce3b466e0a5617371da
-generated: "2024-12-09T10:52:11.663174+01:00"
+generated: "2024-12-09T15:42:49.403211+01:00"
